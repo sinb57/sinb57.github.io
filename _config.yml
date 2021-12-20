@@ -38,8 +38,8 @@ google_analytics:
 
 theme_mode:  # [light|dark]
 
-img_cdn: 'https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images@0a003683c0c3ca549d12c309f9b3e03ea20981e5'
-avatar: '/commons/avatar.jpg'
+img_cdn:
+avatar:
 
 toc: true
 
